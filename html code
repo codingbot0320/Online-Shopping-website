@@ -1,0 +1,607 @@
+<!---------- Meta HTML Starts --------->
+<html>
+   <head>
+      <title>Website Site</title>
+      
+      <link rel="stylesheet" href="style.css">
+   </head>
+   <body>
+<!---------- Meta HTML Ends --------->
+
+<!---------- Top Header HTML Code Starts --------->
+<div class="width-100 top-header">
+    <div class="container">
+      <div class="width-50">
+        <p class="head1p1 headquote">dezven: India's Fastest Online Shopping Destination </p>
+      </div>
+      <div class="width-50">
+        <ul class="head1ul cashback-sect">
+          <li>
+            <i class="fa fa-users" aria-hidden="true"></i>
+            <a class="head1mr" href="#">Refer Your Friend And Earn Rs. 500 Cashback</a>
+          </li>
+          <li>
+            <i class="fa fa-mobile" aria-hidden="true"></i>
+            <a href="#"> Download App</a>
+          </li>
+        </ul>
+        </p>
+      </div>
+    </div>
+  </div>
+  <!---------- Top Header HTML Code Ends --------->
+
+  <!---------- Logo and Search Panel HTML Code Starts --------->
+<div class="width-100 search-panel">
+    <div class="container">
+      <div class="width-20">
+        <img src="logo.png" class="logo">
+      </div>
+      <div class="width-40">
+        <input class="search-textbox" type="text" Placeholder="Search for products, brand and more">
+        <button class="search-button">
+          <i class="fa fa-search" aria-hidden="true"></i>
+        </button>
+      </div>
+      <div class="width-30">
+        <ul class="cart-sect">
+          <li>
+            <i class="fa fa-heart-o" aria-hidden="true"></i>
+            <a class="head1mr" href="#">Wishlist</a>
+          </li>
+          <li>
+            <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+            <a href="#">Login & Signup  </a>
+            
+          </li>
+          <li>
+            <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+            <a href="#">Cart (0)</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <!---------- Logo and Search Panel HTML Code Ends --------->
+  <!---------- Main Menu HTML Code Starts --------->
+<div class="width-100">
+    <div class="container">
+      <ul class="main-menu">
+        <li>
+          <a href="#">Home</a>
+        </li>
+        <li>
+          <a href="#">iPhone</a>
+        </li>
+        <li>
+          <a href="#">Samsung</a>
+        </li>
+        <li>
+          <a href="#">Boat</a>
+        </li>
+        <li>
+          <a href="#">Motorola</a>
+        </li>
+        <li>
+          <a href="#">Dell</a>
+        </li>
+        <li>
+          <a href="#">Accessories</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!---------- Main Menu HTML Code Ends --------->
+  <!---------- Slider HTML Code Starts --------->
+<div class="width-100">
+    <img class="wimg100 slider" >
+  </div>
+  <!---------- Slider HTML Code Ends --------->
+
+  <!---------- Banner HTML Code Starts --------->
+<div class="width-100 margin-top-50">
+    <div class="container">
+      <div class="width-20">
+        <div class="banner-list">
+          <a href="#">
+            <img class="wimg100" >
+          </a>
+        </div>
+      </div>
+      <div class="width-20">
+        <div class="banner-list">
+          <a href="#">
+            <img class="wimg100" >
+          </a>
+        </div>
+      </div>
+      <div class="width-33">
+        <div class="banner-list">
+          <a href="#">
+            <img class="wimg100" >
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!---------- Banner HTML Code Ends --------->
+  <!-- Product-Section HTML Code STARTS -->
+<div class="width-100 margin-top-50">
+    <div class="container">
+      <div class="width-25">
+        <div class="product-section">
+          <div class="product-border">
+            <div class="product-img-center">
+              <a href="#">
+                <img class="product-img" src="logo1.jpeg" 
+                onclick="location.href='https://www.flipkart.com/apple-iphone-11-pro-max-gold-64-gb/p/itm6ef18218efdf6'">
+              </a>
+            </div>
+            <div>
+              <p class="product-name">
+                <a href="#">Iphone 11 Max Pro 64 GB </a>
+              </p>
+              <p class="product-rating">
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <span>(5)</span>
+              </p>
+              <p class="product-price">
+                <span class="product-discounted-price">Rs.135000</span>
+                <span class="product-original-price">Rs.117100</span>
+                <span class="product-discount">25%OFF</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="width-25">
+        <div class="product-section">
+          <div class="product-border">
+            <div class="product-img-center">
+              <a href="#">
+                <img class="product-img" src="logo2.png" 
+                onclick="location.href='https://www.flipkart.com/apple-iphone-12-white-64-gb/p/itm8b88bdc03cd79'">
+              </a>
+            </div>
+            <div>
+              <p class="product-name">
+                <a href="#">Iphone 12 Pro 128 GB</a>
+              </p>
+              <p class="product-rating">
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <span>(5)</span>
+              </p>
+              <p class="product-price">
+                <span class="product-discounted-price">Rs.44999</span>
+                <span class="product-original-price">Rs.49900</span>
+                <span class="product-discount">9%OFF</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="width-25">
+        <div class="product-section">
+          <div class="product-border">
+            <div class="product-img-center">
+              <a href="#">
+                <img class="product-img" src="logo3.jpg"
+                onclick="location.href='https://www.flipkart.com/oneplus-9-5g-arctic-sky-256-gb/p/itmc5d1c40d3c10e'">
+              </a>
+            </div>
+            <div>
+              <p class="product-name">
+                <a href="#">One Plus 9T</a>
+              </p>
+              <p class="product-rating">
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <span>(5)</span>
+              </p>
+              <p class="product-price">
+                <span class="product-discounted-price">Rs.32990</span>
+                <span class="product-original-price">Rs.54999</span>
+                <span class="product-discount">40%OFF</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="width-25">
+        <div class="product-section">
+          <div class="product-border">
+            <div class="product-img-center">
+              <a href="#">
+                <img class="product-img" src="logo4.jpeg"
+                onclick="location.href=
+                'https://shop.gadgetsnow.com/headphones-headsets/boat-rockerz-558-bluetooth-wireless-over-the-ear-headphones-with-mic-upto-20-hours-playback-50mm-drivers-army-green-/10029/p_G444218?utm_source=google&utm_medium=cpc&gad_source=1&gclid=CjwKCAiA_5WvBhBAEiwAZtCU795evQGqS-Ql7dsLw2V1brTmPQIhYa8QLhqHcUSxiMSPbnNLAWOjYhoCnBAQAvD_BwE'">
+              </a>
+            </div>
+            <div>
+              <p class="product-name">
+                <a href="#">Boat headphones</a>
+              </p>
+              <p class="product-rating">
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <span>(5)</span>
+              </p>
+              <p class="product-price">
+                <span class="product-discounted-price">Rs.4274</span>
+                <span class="product-original-price">Rs.4999</span>
+                <span class="product-discount">15%OFF</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="width-25">
+        <div class="product-section">
+          <div class="product-border">
+            <div class="product-img-center">
+              <a href="#">
+                <img class="product-img" src="logo5.jpeg"
+                onclick="location.href='https://www.flipkart.com/noise-buds-solo-active-cancellation-bluetooth-headset/p/itm2b6fe9fc95cf5'">
+              </a>
+            </div>
+            <div>
+              <p class="product-name">
+                <a href="#">Noice earpods</a>
+              </p>
+              <p class="product-rating">
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <span>(5)</span>
+              </p>
+              <p class="product-price">
+                <span class="product-discounted-price">Rs.5999</span>
+                <span class="product-original-price">Rs.9999</span>
+                <span class="product-discount">40%OFF</span>
+                
+            
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="width-25">
+        <div class="product-section">
+          <div class="product-border">
+            <div class="product-img-center">
+              <a href="#">
+                <img class="product-img" src="logo6.jpeg"
+                onclick="location.href='https://www.flipkart.com/motorola-edge-20-pro-midnight-sky-128-gb/p/itmfc90819fa6f2c'">
+              </a>
+            </div>
+            <div>
+              <p class="product-name">
+                <a href="#">Motorola Edge 20 Pro 5G</a>
+              </p>
+              <p class="product-rating">
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <span>(5)</span>
+              </p>
+              <p class="product-price">
+                <span class="product-discounted-price">Rs.29999</span>
+                <span class="product-original-price">Rs.45999</span>
+                <span class="product-discount">34%OFF</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="width-25">
+        <div class="product-section">
+          <div class="product-border">
+            <div class="product-img-center">
+              <a href="#">
+                <img class="product-img" src="logo7.jpeg"
+                onclick="location.href='https://www.amazon.in/Latest-Bluetooth-Activity-Tracker-Monitor/dp/B0B4TBYT96'">
+              </a>
+            </div>
+            <div>
+              <p class="product-name">
+                <a href="#">MI Smartwatch</a>
+              </p>
+              <p class="product-rating">
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <span>(5)</span>
+              </p>
+              <p class="product-price">
+                <span class="product-discounted-price">Rs.399</span>
+                <span class="product-original-price">Rs.1199</span>
+                <span class="product-discount">67%OFF</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="width-25">
+        <div class="product-section">
+          <div class="product-border">
+            <div class="product-img-center">
+              <a href="#">
+                <img class="product-img" src="logo8.jpeg"
+                onclick="location.href=
+                'https://www.amazon.in/Samsung-Galaxy-Green-256GB-Storage/dp/B0BT9DVZLZ/ref=asc_df_B0BT9DVZLZ/?tag=googleshopdes-21&linkCode=df0&hvadid=619799311894&hvpos=&hvnetw=g&hvrand=10739058157916112196&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9299829&hvtargid=pla-1958093978131&psc=1&mcid=c2eaac33f7783f3dbb56cc5303f37d68&gclid=CjwKCAiA_5WvBhBAEiwAZtCU776R6b4xp848Lmf6w1y9MFG8_lSFs1KvcSD6GfVbBEmorvA9vTw8LBoCzaEQAvD_BwE'">
+              </a>
+            </div>
+            <div>
+              <p class="product-name">
+                <a href="#">Samsung S24 pro</a>
+              </p>
+              <p class="product-rating">
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <span>(5)</span>
+              </p>
+              <p class="product-price">
+                <span class="product-discounted-price">Rs.59700</span>
+                <span class="product-original-price">Rs.75999</span>
+                <span class="product-discount">21%OFF</span>
+                
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="width-25">
+        <div class="product-section">
+          <div class="product-border">
+            <div class="product-img-center">
+              <a href="#">
+                <img class="product-img" src="logo10.jpeg"
+                onclick="location.href='https://www.fliptwirls.com/shop/mobile-accessories/smart-phone-tab/poco-smartphone/poco-x4-pro-5g-laser-black-6gb-ram-128gb-storage/?utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=gmc&gad_source=1&gclid=CjwKCAiA_5WvBhBAEiwAZtCU7zXl43cPl-7Dkm0TjuZuvp-NdCXnNlcQjTZVtkujuMRjDY-_N1XbXRoC7_kQAvD_BwE'">
+              </a>
+            </div>
+            <div>
+              <p class="product-name">
+                <a href="#">Poco X4 pro 5G</a>`
+              </p>
+              <p class="product-rating">
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <span>(5)</span>
+              </p>
+              <p class="product-price">
+                <span class="product-discounted-price">Rs.17499</span>
+                <span class="product-original-price">Rs.23999</span>
+                <span class="product-discount">25%OFF</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="width-25">
+        <div class="product-section">
+          <div class="product-border">
+            <div class="product-img-center">
+              <a href="#">
+                <img class="product-img" src="logo9.jpeg"
+                onclick="location.href='https://www.flipkart.com/dell-g3-core-i5-10th-gen-8-gb-1-tb-hdd-256-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-120-hz-3500-gaming-laptop/p/itme9b25dfbcbc7e'">
+              </a>
+            </div>
+            <div>
+              <p class="product-name">
+                <a href="#">Dell G3 laptop</a>
+              </p>
+              <p class="product-rating">
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <span>(5)</span>
+              </p>
+              <p class="product-price">
+                <span class="product-discounted-price">Rs.52615</span>
+                <span class="product-original-price">Rs.78584</span>
+                <span class="product-discount">33%OFF</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="width-25">
+        <div class="product-section">
+          <div class="product-border">
+            <div class="product-img-center">
+              <a href="#">
+                <img class="product-img" src="macbook.jpeg"
+                onclick="location.href='https://www.macrumors.com/guide/2024-macbook-air/'">
+              </a>
+            </div>
+            <div>
+              <p class="product-name">
+                <a href="#">Macbook air M1</a>
+              </p>
+              <p class="product-rating">
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <span>(5)</span>
+              </p>
+              <p class="product-price">
+                <span class="product-discounted-price">Out of stock</span>
+                
+                
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      
+      <div class="width-25">
+        <div class="product-section">
+          <div class="product-border">
+            <div class="product-img-center">
+              <a href="#">
+                <img class="product-img" src="Hp.jpg"
+                onclick="location.href='https://www.flipkart.com/hp-victus-ai-powered-amd-ryzen-7-octa-core-7840hs-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-3050-16-s0095ax-gaming-laptop/p/itm64ae9ddc2dec6?pid=COMGS2XZGZHEJEZG&lid=LSTCOMGS2XZGZHEJEZGXWFBYW&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc'">
+              </a>
+            </div>
+            <div>
+              <p class="product-name">
+                <a href="#">Hp Victus 16</a>
+              </p>
+              <p class="product-rating">
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <span>(5)</span>
+              </p>
+              <p class="product-price">
+                <span class="product-discounted-price">Rs.78990</span>
+                <span class="product-original-price">Rs.96136</span>
+                <span class="product-discount">17%OFF</span>
+                
+            </div>
+          </div>
+        </div>
+      </div>
+      
+  <!---------- Product-Section HTML Code Ends --------->
+
+  <!-- Featured-Section HTML Code STARTS -->
+<div class="width-100 margin-top-50 feature-sect">
+    <div class="container">
+      <div class="width-20 featured-padding">
+        <div class="featured-border">
+          <div class="width-20 featured-content">
+            <i class="fa fa-truck" aria-hidden="true"></i>
+          </div>
+          <div class="width-80 featured-content margin-top-8">
+            <h4>Instant Delivery</h4>
+            <p>One day shipping on all order</p>
+          </div>
+        </div>
+      </div>
+      <div class="width-20">
+        <div class="featured-border">
+          <div class="featured-bord">
+            <div class="width-20 featured-content">
+              <i class="fa fa-circle-o" aria-hidden="true"></i>
+            </div>
+            <div class="width-80 featured-content margin-top-8">
+              <h4>ONLINE SUPPORT 24/7</h4>
+              <p>Good service</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="width-20">
+        <div class="featured-border">
+          <div class="width-20 featured-content">
+            <i class="fa fa-life-ring" aria-hidden="true"></i>
+          </div>
+          <div class="width-80 featured-content margin-top-8">
+            <h4>TRY AND BUY</h4>
+            <p>Try our Product, If you like it then buy it</p>
+          </div>
+        </div>
+      </div>
+      <div class="width-20">
+        <div class="featured-border">
+          <div class="width-20 featured-content">
+            <i class="fa fa-gift" aria-hidden="true"></i>
+          </div>
+          <div class="width-80 featured-content margin-top-8">
+            <h4>INSTANT DISCOUNT</h4>
+            <p>Upto 70%OFF instant discount on all product</p>
+          </div>
+        </div>
+      </div>
+      <div class="width-20">
+        <div class="featured-border">
+          <div class="width-20 featured-content">
+            <i class="fa fa-credit-card" aria-hidden="true"></i>
+          </div>
+          <div class="width-80 featured-content margin-top-8">
+            <h4>SECURE PAYMENT</h4>
+            <p>All types of payment accepted</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!---------- Featured-Section HTML Code Ends --------->
+  <!-- Footer-Section HTML Code STARTS -->
+<div class="width-100 margin-top-50 footer">
+    <div class="container">
+      <div class="width-25">
+        <h2 class="quicklink-heading">Account Detail</h2>
+        <ul class="quicklink-menu">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About us</a></li>
+          <li><a href="#">Search</a></li>
+          <li><a href="#">Cart</a></li>
+          <li><a href="#">Checkout</a></li>
+        </ul>
+      </div>
+      <div class="width-25">
+        <h2 class="quicklink-heading">Quick Link</h2>
+        <ul class="quicklink-menu">
+          <li><a href="#">My Profile</a></li>
+          <li><a href="#">Change Password</a></li>
+          <li><a href="#">Order History</a></li>
+          <li><a href="#">My Wishlist</a></li>
+          
+        </ul>
+      </div>
+      <div class="width-25">
+        <h2 class="quicklink-heading">Quick Link</h2>
+        <ul class="quicklink-menu">
+          <li><a href="#">Login</a></li>
+          <li><a href="#">Contact us</a></li>
+          <li><a href="#">Download App</a></li>
+          <li><a href="#">Refer & Earn Cashback</a></li>
+        </ul>
+      </div>
+      <div class="width-25">
+        <h2 class="quicklink-heading">GET IN TOUCH</h2>
+        <ul class="get-in-touch">
+          <li><i class="fa fa-envelope-o" aria-hidden="true"></i> E MAIL:<a href="#" class="footer-e-mail"> dezven123@gmail.com</a></li>
+          <li><i class="fa fa-headphones" aria-hidden="true"></i> WHATSAPP: +91 7960524961</li>
+          <li><i class="fa fa-fax" aria-hidden="true"></i> CONTACT NO.: +91 8520369854</li>
+          <li><i class="fa fa-globe" aria-hidden="true"></i> WEBSITE:<a href="#" class="footer-website"> https://www.dezven.com</a></li>
+        </ul>
+        <ul class="social-media">
+          <li><a href="#"><img src="facebook.png" ></a></li>
+          <li><a href="#"><img src="twitter.png"></a></li>
+          <li><a href="#"><img src="linkedin.png"></a></li>
+          <li><a href="#"><img src="instagram.jpeg"></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <!---------- Footer-Section HTML Code Ends --------->
+  <!-- Footer-bottom Section HTML Code STARTS -->
+<div class="width-100 footer2-bacbor">
+    <p class="footer2-content">Copyright Â© 2023, dezven.com. All Rights Reserved</p>
+  </div>
+  <!---------- Footer-bottom Section HTML Code Ends --------->
