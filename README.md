@@ -1,1 +1,1 @@
-# Online-Shopping-website
+# Online-Shopping platform
